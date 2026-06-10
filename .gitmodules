@@ -5,6 +5,3 @@
 [submodule "IndexNumberTools"]
 	path = IndexNumberTools
 	url = https://github.com/mserrano-ine/indexnumbertools
-[submodule "cuadramelo"]
-	path = cuadramelo
-	url = https://github.com/mserrano-ine/cuadramelo
